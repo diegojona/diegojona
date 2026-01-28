@@ -12,9 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=black&right_color=darkblue"  />
-</div>
 
 ###
 
